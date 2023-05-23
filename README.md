@@ -20,6 +20,7 @@
 - [Cultplex](https://www.cultplex.co.uk/whats-on)
 - [Everyman](https://www.everymancinema.com/venues-list/x11np-everyman-manchester-st-johns)
 - [HOME Cinema](https://homemcr.org/cinema/)
+- [Backyard Cinema](https://backyardcinema.co.uk/manchester/)
 
 ## Theatre
 
