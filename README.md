@@ -7,6 +7,8 @@
 - [HOME Events](https://homemcr.org/events/)
 - [Victoria Baths](http://www.victoriabaths.org.uk/visit/)
 - [Event Brite](https://www.eventbrite.co.uk/d/united-kingdom--manchester/events/)
+- [BBC Shows & Tours](https://www.bbc.co.uk/showsandtours/shows)
+- [Manchester Uni](https://events.manchester.ac.uk/highlights/)
 
 ## Museums
 
