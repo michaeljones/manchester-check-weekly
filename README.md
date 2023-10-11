@@ -9,11 +9,17 @@
 - [Event Brite](https://www.eventbrite.co.uk/d/united-kingdom--manchester/events/)
 - [BBC Shows & Tours](https://www.bbc.co.uk/showsandtours/shows)
 - [Manchester Uni](https://events.manchester.ac.uk/highlights/)
+- [Trafford Centre](https://traffordcentre.co.uk/whatson)
+- [Friend's meeting house](https://meetinghousemanchester.co.uk/news/)
+- [Manchester Central](https://www.manchestercentral.co.uk/events)
+- [Event Brite Manchester](https://www.eventbrite.co.uk/d/united-kingdom--manchester/all-events/)
 
 ## Museums
 
 - [People's History Museum](https://phm.org.uk/whats-on/)
 - [The Whitworth](https://www.whitworth.manchester.ac.uk/whats-on/events/)
+- [Manchester Art Gallery](https://manchesterartgallery.org/event/)
+- [Manchester Museum](https://www.museum.manchester.ac.uk/whats-on/)
 
 ## Cinemas
 
@@ -32,3 +38,4 @@
 ## Music
 
 - [Halle](http://halle.co.uk/concerts/)
+- [Band on the Wall](https://bandonthewall.org/)
