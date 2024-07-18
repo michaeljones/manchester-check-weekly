@@ -28,7 +28,6 @@
 - [Cultplex](https://www.cultplex.co.uk/whats-on)
 - [Everyman](https://www.everymancinema.com/venues-list/x11np-everyman-manchester-st-johns)
 - [HOME Cinema](https://homemcr.org/cinema/)
-- [Backyard Cinema](https://backyardcinema.co.uk/manchester/)
 
 ## Theatre
 
@@ -39,3 +38,5 @@
 
 - [Halle](http://halle.co.uk/concerts/)
 - [Band on the Wall](https://bandonthewall.org/)
+- [Chetham's School of Music](https://chethamsschoolofmusic.com/whats-on/)
+- [Royal Northern College of Music](https://www.rncm.ac.uk/whats-on/events/)
