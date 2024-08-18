@@ -28,6 +28,7 @@
 - [Cultplex](https://www.cultplex.co.uk/whats-on)
 - [Everyman](https://www.everymancinema.com/venues-list/x11np-everyman-manchester-st-johns)
 - [HOME Cinema](https://homemcr.org/cinema/)
+- [Adventure Cinema Lyme Park](https://www.adventurecinema.co.uk/venues/lyme)
 
 ## Theatre
 
